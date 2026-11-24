@@ -6,7 +6,7 @@ Building **sub-second GPU combinatorial optimization kernels (CUDA 13.0 / C++20)
 
 #### Flagship Repositories
 
-* **[`nspl-gpu-mwvc-witnesses`](https://github.com/wyldcam/nspl-gpu-mwvc-witnesses)** — Cryptographically verifiable NP witness suite (`.sol` certificates + SHA-256 auditor) for **NSPL-GPU-OPT**, solving 5,000 to 130,000-node weighted conflict graphs (`MWVC` / `MWIS` / MILP primal heuristics) in `100–526 ms` on NVIDIA L4 (`sm_89`), outperforming `HiGHS`, 8-worker `OR-Tools CP-SAT`, and `FastWVC`.
+* **[`nspl-gpu-mwvc-witnesses`](https://github.com/wyldcam/formalizing-post-solve-witness-cover-preservation-checks))** — Cryptographically verifiable NP witness suite (`.sol` certificates + SHA-256 auditor) for **NSPL-GPU-OPT**, solving 5,000 to 130,000-node weighted conflict graphs (`MWVC` / `MWIS` / MILP primal heuristics) in `100–526 ms` on NVIDIA L4 (`sm_89`), outperforming `HiGHS`, 8-worker `OR-Tools CP-SAT`, and `FastWVC`.
 * **[`the-ai-repository`](https://github.com/wyldcam/the-ai-repository)** — Modular agentic AI engineering hub featuring $O(V+E)$ disk-streaming graph witness MCP servers (`wyldcam-verifier`), state-pinned zero-drift execution contracts, and multi-client MCP auto-discovery configs.
 
 ---
